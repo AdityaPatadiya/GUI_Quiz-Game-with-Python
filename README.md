@@ -21,6 +21,6 @@ you add the things according to your preference and pass as parameters in *data.
 ## Here's how the project is looks like:-
 ![Screenshot 2024-04-02 225946](https://github.com/AdityaPatadiya/GUI_Quiz-Game-with-Python/assets/161931434/eb055fce-7a78-43a3-abd5-cfb202879828)
 
-If you find any of the bug in this code, feel free to ensure us.
+If you find any of the bug in this project, feel free to ensure us.
 we're glad to here from your side.
 Thank You!✨
