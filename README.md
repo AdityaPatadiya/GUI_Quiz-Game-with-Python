@@ -1,5 +1,5 @@
 # GUI_Quiz-Game-with-Python
-This is the GUI-based Python Quiz Game made with *tkinter* python package.
+This is the GUI-based Python Quiz Game made with ***tkinter*** python package.
 This package is used to create UI for users.
 It is a T/F Quiz game.
 
